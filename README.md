@@ -1,4 +1,4 @@
-### Proyecto UI propuestO por la plataforma Hola Juniors.
+### Proyecto UI propuesto por la plataforma Hola Juniors.
 
 ### Tecnologias usadas:
 - Vite Js.
